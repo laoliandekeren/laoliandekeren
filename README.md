@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ermm...;My+Name+is+lldkr&center=true&font=Lato&size=32&color=linear-gradient(to right, #1E3A8A, #3B82F6))](https://git.io/typing-svg)
 
 ### 👋 关于我  
