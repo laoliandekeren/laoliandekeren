@@ -5,4 +5,4 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ermm...;My+Name+is+lldkr&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ermm...;My+Name+is+lldkr;could+you+just+stop+that?&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
