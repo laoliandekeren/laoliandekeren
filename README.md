@@ -1,12 +1,29 @@
 <!-- snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xingwangzhe/xingwangzhe/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xingwangzhe/xingwangzhe/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/laoliandekeren/laoliandekeren/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/laoliandekeren/laoliandekeren/blob/output/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ermm...;My+Name+is+lldkr;could+you+just+stop+that?&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
 
-# Up to now, there have been 
-![Visitor Count](https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/laoliandekeren/visits&query=value&color=23D160&label=Visits&logo=github&style=for-the-badge) visits
+### 👋 关于我  
+- 2012年的小探索家
+- 我的爱好:数学🟰（ermm）
+- 看电影 追剧🎬 看动漫 
+- 画画✍️ 弹钢琴🎹 
 
+
+### 📫 怎么找我  
+- 小红书：老练的可仁
+- 微信🛰️：BcmfCaF2
+- QQ🐧：1779160433
+  ps：聊天的时候还是在QQ/小红书上聊😈
+
+### 更多
+- 我担：马丁·弗瑞曼，杰克·吉伦哈尔，阿德里安·布劳迪
+- 我推：先知（第五人格），天马贤三，约翰李贝特
+
+
+<!-- 小装饰 -->
+*“What if you are right and they are wrong?”*
