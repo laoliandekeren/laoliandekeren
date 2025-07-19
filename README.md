@@ -22,3 +22,26 @@
 
 <!-- 小装饰 -->
 *“What if you are right and they are wrong?”*
+
+<!-- 应援彩蛋：点击展开照片墙 -->
+<button id="showSupport" style="background: #333; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer;">
+  点击看我担「马丁·弗瑞曼」应援墙 📸
+</button>
+
+<div id="supportWall" style="
+  display: none; 
+  margin-top: 10px; 
+  padding: 10px; 
+  background: #1e1e1e; 
+  border-radius: 8px;
+">
+  <img src="https://www.indiewire.com/wp-content/uploads/2017/01/sherlock_s4_ep1_015-e1483325579393.jpg?w=3000&h=1687&crop=1&resize=1200%2C675" width="150" style="margin-right: 10px; border-radius: 4px;">
+ <p style="margin-top: 8px; color: #999;">「小自由！」</p>
+</div>
+
+<script>
+document.getElementById('showSupport').addEventListener('click', () => {
+  const wall = document.getElementById('supportWall');
+  wall.style.display = wall.style.display === 'none' ? 'block' : 'none';
+});
+</script>
