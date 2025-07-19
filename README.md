@@ -6,42 +6,32 @@
       <stop offset="50%" stop-color="#9b59b6" />
       <stop offset="100%" stop-color="#e74c3c" />
     </linearGradient>
+    <linearGradient id="gradient2" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2ecc71" />
+      <stop offset="100%" stop-color="#3498db" />
+    </linearGradient>
   </defs>
   
   <!-- 背景 -->
   <rect width="400" height="200" fill="#f0f0f0" />
   
-  <!-- 动态粒子效果 -->
-  <circle cx="50" cy="50" r="10" fill="url(#gradient)">
-    <animate attributeName="cx" values="50;350;50" dur="15s" repeatCount="indefinite" />
-    <animate attributeName="cy" values="50;150;50" dur="10s" repeatCount="indefinite" />
-    <animate attributeName="r" values="10;20;10" dur="5s" repeatCount="indefinite" />
-  </circle>
+  <!-- 彩色粒子（静态版） -->
+  <circle cx="50" cy="50" r="10" fill="url(#gradient)" />
+  <circle cx="100" cy="100" r="15" fill="#2ecc71" />
+  <circle cx="200" cy="50" r="8" fill="#e67e22" />
+  <circle cx="300" cy="150" r="12" fill="#9b59b6" />
   
-  <circle cx="100" cy="100" r="15" fill="#2ecc71">
-    <animate attributeName="cx" values="100;300;100" dur="12s" repeatCount="indefinite" />
-    <animate attributeName="cy" values="100;50;100" dur="8s" repeatCount="indefinite" />
-  </circle>
-  
-  <circle cx="200" cy="50" r="8" fill="#e67e22">
-    <animate attributeName="cx" values="200;100;200;300;200" dur="18s" repeatCount="indefinite" />
-    <animate attributeName="cy" values="50;150;50" dur="14s" repeatCount="indefinite" />
-  </circle>
-  
-  <circle cx="300" cy="150" r="12" fill="#9b59b6">
-    <animate attributeName="cx" values="300;200;300" dur="10s" repeatCount="indefinite" />
-    <animate attributeName="cy" values="150;100;150" dur="6s" repeatCount="indefinite" />
-    <animate attributeName="r" values="12;5;12" dur="7s" repeatCount="indefinite" />
-  </circle>
+  <!-- 装饰性线条 -->
+  <path d="M50,50 Q150,0 250,50 T400,50" stroke="url(#gradient2)" stroke-width="2" fill="none" />
+  <path d="M50,150 Q150,200 250,150 T400,150" stroke="url(#gradient)" stroke-width="2" fill="none" />
   
   <!-- 你的名字或标语 -->
-  <text x="200" y="120" font-family="Arial" font-size="24" text-anchor="middle" fill="#333">Hello GitHub!</text>
+  <text x="200" y="120" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#333">
+    Hello GitHub!
+  </text>
   
-  <!-- 小装饰线 -->
-  <line x1="150" y1="140" x2="250" y2="140" stroke="url(#gradient)" stroke-width="2">
-    <animate attributeName="x1" values="150;100;150" dur="15s" repeatCount="indefinite" />
-    <animate attributeName="x2" values="250;300;250" dur="15s" repeatCount="indefinite" />
-  </line>
+  <!-- 底部装饰 -->
+  <rect x="50" y="160" width="300" height="20" rx="10" fill="url(#gradient)" opacity="0.5" />
 </svg>
 
 <!--
