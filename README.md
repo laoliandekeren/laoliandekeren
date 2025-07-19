@@ -7,5 +7,5 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ermm...;My+Name+is+lldkr;could+you+just+stop+that?&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
 
-# Up to now, there have been ![Visitor Count](https://profile-counter.glitch.me/laoliandekeren/count.svg) visits
+# Up to now, there have been ![Visitor Count](https://komarev.com/ghpvc/?username=laoliandekeren&label=Visits&color=green) visits
 
