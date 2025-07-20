@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ermm...;My+Name+is+lldkr&center=true&font=Lato&size=32&color=0066CC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ermm...;Hello,+World!&center=true&font=Lato&size=32&color=0066CC)](https://git.io/typing-svg)
 
 
 ### 👋 关于我  
